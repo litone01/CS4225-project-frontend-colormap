@@ -11,7 +11,8 @@
     "react-color": "^2.17.3",
     "react-dom": "^16.8.6",
     "react-jvectormap": "0.0.12",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "react-wordcloud": "^1.2.7"
   },
   "scripts": {
     "start": "react-scripts start",
